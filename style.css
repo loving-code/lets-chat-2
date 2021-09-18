@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: url("sprinkles.jpeg");
+	background-image: url("sprinkles.jpeg");
 background-position: center;
 background-size: cover;
 }
